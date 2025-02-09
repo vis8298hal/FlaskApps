@@ -1,3 +1,4 @@
 build.ps
 version_history.txt
 build.py
+.gitignore
